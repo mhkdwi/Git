@@ -1,1 +1,1 @@
-print("iziin")
+print("iziin peuy")
